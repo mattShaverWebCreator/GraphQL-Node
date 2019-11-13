@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Razza\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add graphql-yoga
+
+PATH: 
+  C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nvm;C:\Program Files\nodejs;C:\Ruby26-x64\bin;C:\Users\Razza\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Razza\AppData\Local\Programs\Python\Python37\;C:\Users\Razza\AppData\Local\Microsoft\WindowsApps;C:\Users\Razza\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Razza\AppData\Local\Programs\Git\cmd;C:\Users\Razza\AppData\Roaming\npm
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  10.16.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect EACCES 104.16.27.35:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+
+npm manifest: 
+  {
+    "name": "hackernews-node",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
